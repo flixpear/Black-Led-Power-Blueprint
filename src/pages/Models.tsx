@@ -38,10 +38,10 @@ export default function Models() {
             </div>
           </Reveal>
           <Reveal delay={0.15} className="hidden lg:block">
-            <a href="/uploads/upload_1.png" target="_blank" rel="noreferrer" className="group relative block">
+            <a href="/images/upload_1.png" target="_blank" rel="noreferrer" className="group relative block">
               <div className="absolute -inset-2 rotate-3 rounded-2xl border-2 border-ink bg-honey" />
               <img
-                src="/uploads/upload_1.png"
+                src="/images/upload_1.png"
                 alt="The original Building Black-Led Power flyer"
                 className="relative w-full rotate-[-2deg] rounded-xl border-2 border-ink shadow-pop transition-transform duration-300 group-hover:rotate-0"
               />
@@ -177,7 +177,7 @@ export default function Models() {
               OPEN THE PLAYBOOKS <ArrowRight size={17} />
             </Link>
             <a
-              href="/uploads/upload_1.png"
+              href="/images/upload_1.png"
               download="building-black-led-power-flyer.png"
               className="inline-flex items-center gap-2 rounded-full border-2 border-cream/40 px-7 py-3.5 font-display text-sm tracking-wide text-cream transition-colors hover:border-cream"
             >

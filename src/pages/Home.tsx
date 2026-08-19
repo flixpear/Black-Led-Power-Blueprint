@@ -206,7 +206,7 @@ export default function Home() {
 
           {/* Flyer card inside grid */}
           <Reveal delay={0.3}>
-            <a href="/uploads/upload_1.png" target="_blank" rel="noreferrer" className="group block h-full">
+            <a href="/images/upload_1.png" target="_blank" rel="noreferrer" className="group block h-full">
               <article className="relative flex h-full min-h-[300px] flex-col justify-between overflow-hidden rounded-3xl border-2 border-ink bg-ink p-6 text-cream shadow-pop transition-transform duration-300 group-hover:-translate-y-1.5">
                 <div className="bg-dots-light absolute inset-0 opacity-40" />
                 <div className="relative">
@@ -237,7 +237,7 @@ export default function Home() {
             <div className="relative mx-auto max-w-md">
               <div className="absolute -top-4 left-1/2 z-10 h-9 w-32 -translate-x-1/2 rotate-[-3deg] rounded-sm border border-ink/20 bg-honey/90 shadow-sm" />
               <img
-                src="/uploads/upload_1.png"
+                src="/images/upload_1.png"
                 alt="Building Black-Led Power flyer: five legally recognized models for community uplift"
                 className="w-full rounded-2xl border-2 border-ink shadow-pop-lg"
               />
@@ -272,7 +272,7 @@ export default function Home() {
               ))}
             </ul>
             <a
-              href="/uploads/upload_1.png"
+              href="/images/upload_1.png"
               download="building-black-led-power-flyer.png"
               className="mt-8 inline-flex items-center gap-2 rounded-full border-2 border-ink bg-red px-7 py-3.5 font-display text-sm tracking-wide text-cream shadow-pop transition-transform hover:-translate-y-1"
             >
